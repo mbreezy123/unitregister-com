@@ -1,0 +1,2 @@
+job_id,install_date,brand,model_number,serial_number,homeowner_name,homeowner_address,homeowner_ok_to_register,registration_deadline,date_registered,confirmation_number,confirmation_sent_to,notes
+EXAMPLE-001,[YYYY-MM-DD],[brand],[model from data plate],[serial from data plate],(sample row; delete),[street, city, state, zip],yes / no,[install date + 60 or 90 days; check the brand's terms],[YYYY-MM-DD],[from manufacturer],[office / homeowner],[anything else]
